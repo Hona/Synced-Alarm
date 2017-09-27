@@ -1,0 +1,4 @@
+E:\ALL\Projects\Synced Alarm\AlarmLibrary\bin\Debug\AlarmLibrary.dll
+E:\ALL\Projects\Synced Alarm\AlarmLibrary\bin\Debug\AlarmLibrary.pdb
+E:\ALL\Projects\Synced Alarm\AlarmLibrary\obj\Debug\AlarmLibrary.dll
+E:\ALL\Projects\Synced Alarm\AlarmLibrary\obj\Debug\AlarmLibrary.pdb

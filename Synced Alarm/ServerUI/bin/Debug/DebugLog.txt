@@ -1,0 +1,15 @@
+mscorlib
+
+
+
+mscorlib
+
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at ServerUI.Settings.LoadSettingsFromFile() in E:\ALL\Projects\Synced Alarm\ServerUI\Settings.cs:line 172
+   at ServerUI.MainUI..ctor() in E:\ALL\Projects\Synced Alarm\ServerUI\MainUI.cs:line 29
+
+-2146233033
+
+Input string was not in a correct format.

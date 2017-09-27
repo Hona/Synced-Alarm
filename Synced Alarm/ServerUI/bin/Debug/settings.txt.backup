@@ -1,0 +1,16 @@
+#MinutesOffset=0
+#MinutesInterval=6a2
+#StartTime=09/24/2017 14:35
+#StopTime=09/24/2017 20:35
+#DefaultSound=AnalogWatch
+$AlarmList
+//Format: Enabled,AlarmTime,Message,Sound,AlarmMode,PartOfIntervalSet
+%True,09/24/2017 14:35,,AnalogWatch,Sound,True
+%True,09/24/2017 15:37,,AnalogWatch,Sound,True
+%True,09/24/2017 16:39,,AnalogWatch,Sound,True
+%True,09/24/2017 17:41,,AnalogWatch,Sound,True
+%True,09/24/2017 18:43,,AnalogWatch,Sound,True
+%True,09/24/2017 19:45,,AnalogWatch,Sound,True
+$EndAlarmList
+#AlarmAtStartTime=True
+#DefaultTextToSpeechMessage=
